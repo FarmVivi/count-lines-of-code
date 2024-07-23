@@ -1,4 +1,4 @@
-FROM alpine:3.20.1
+FROM alpine:3.20.2
 
 # Install bash, git and cloc
 RUN apk add --no-cache bash git cloc
